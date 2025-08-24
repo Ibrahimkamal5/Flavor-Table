@@ -1,0 +1,27 @@
+{
+  "name": "express-node-demo",
+  "version": "1.0.0",
+  "description": "It is Just a demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibrahimkamal5/Challengei-and-dataStrutrues.git"
+  },
+  "keywords": [
+    "[\"expressDemo\"]"
+  ],
+  "author": "Ibrahimkamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibrahimkamal5/Challengei-and-dataStrutrues/issues"
+  },
+  "homepage": "https://github.com/Ibrahimkamal5/Challengei-and-dataStrutrues#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "env": "^0.0.2",
+    "express": "^5.1.0"
+  }
+}
